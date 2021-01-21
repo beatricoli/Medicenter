@@ -347,6 +347,57 @@ footer{
     flex-direction: column;
 }
 
+.fm_desc{
+    padding: 20px;
+    line-height: 20px;
+}
+
+.fm_1 a, .fm_2 a, .fm_3 a{
+    font-size: 22px;
+    margin-bottom: -20px;
+}
+
+.widget_body_medicenter{
+    width: 300px;
+    text-align: justify;
+    line-height: 20px;
+    margin-top: 30px;
+    color: #727272;
+}
+
+.par{
+    margin-top: 50px;
+}
+
+.widget p{
+    margin: 0;
+    margin-bottom: 10px;
+    color: #727272;
+}
+
+p.mail{
+    color: #ffffff;
+}
+
+.cont{
+    display: flex;
+}
+
+.contact{
+    margin-top: 78px;
+    margin-left: 25px;
+}
+
+.icons{
+    display: flex;
+}
+
+.icons img{
+    width: 30px;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
 footer .widget_title_text{
     color: white;
 }
@@ -358,5 +409,5 @@ footer .widget_title_text{
     color: #5c5c5c;
     font-size: 12px;
     margin-top: 30px;
-
 }
+
