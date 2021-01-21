@@ -377,6 +377,7 @@ footer{
 
 p.mail{
     color: #ffffff;
+    font-size: 13px;
 }
 
 .cont{
@@ -397,6 +398,18 @@ p.mail{
     margin-right: 15px;
     margin-top: 15px;
 }
+
+.posts{
+    text-align: justify;
+    margin-bottom: 10px;
+    padding-right: 20px;
+}
+
+.posts small{
+    color: #39aae1;
+    font-weight: bold;
+}
+
 
 footer .widget_title_text{
     color: white;
